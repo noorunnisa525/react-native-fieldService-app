@@ -1,0 +1,270 @@
+2021-12-16 08:54:39 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fbde3ec3070; archive(resolved)='<IDEArchive: 0x7fbdc39af990>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fbde3ec3070; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fbde3ec34c0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc8607ad0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc6b07cc0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67d06b0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67ac500; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdaf909e80; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67a7120; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67c8720; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67f13e0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fbde59dbbb0; teamID='6452WM677C', teamName='Pendulum Media LLC', teamType='Company', username='waseem.mansha@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fbdc67c4f30; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='(null)'>
+	<IDEDistributionContext: 0x7fbdc8557460; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fbddab37c10>', team='(null)'>
+	<IDEDistributionContext: 0x7fbdc67abbc0; archive = '<IDEArchive: 0x7fbdc39af990>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fbde3ec3070>
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCopyItemStep
+2021-12-16 08:54:39 +0000  Running /usr/bin/ditto '-V' '/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app'
+2021-12-16 08:54:39 +0000  >>> Copying /Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app 
+2021-12-16 08:54:39 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-12-16 08:54:39 +0000  10642 bytes for ./_CodeSignature/CodeResources
+2021-12-16 08:54:39 +0000  copying file ./Fontisto.ttf ... 
+2021-12-16 08:54:39 +0000  313528 bytes for ./Fontisto.ttf
+2021-12-16 08:54:39 +0000  copying file ./Octicons.ttf ... 
+2021-12-16 08:54:39 +0000  28364 bytes for ./Octicons.ttf
+copying file ./Feather.ttf ... 
+2021-12-16 08:54:39 +0000  56024 bytes for ./Feather.ttf
+2021-12-16 08:54:39 +0000  copying file ./Entypo.ttf ... 
+2021-12-16 08:54:39 +0000  65584 bytes for ./Entypo.ttf
+2021-12-16 08:54:39 +0000  copying file ./FontAwesome5_Brands.ttf ... 
+2021-12-16 08:54:39 +0000  132728 bytes for ./FontAwesome5_Brands.ttf
+2021-12-16 08:54:39 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2021-12-16 08:54:39 +0000  899432 bytes for ./MaterialCommunityIcons.ttf
+2021-12-16 08:54:39 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-12-16 08:54:39 +0000  27549 bytes for ./AppIcon60x60@2x.png
+2021-12-16 08:54:39 +0000  copying file ./AntDesign.ttf ... 
+2021-12-16 08:54:39 +0000  70344 bytes for ./AntDesign.ttf
+2021-12-16 08:54:39 +0000  copying file ./Foundation.ttf ... 
+2021-12-16 08:54:39 +0000  56976 bytes for ./Foundation.ttf
+2021-12-16 08:54:39 +0000  copying file ./Ionicons.ttf ... 
+2021-12-16 08:54:39 +0000  247192 bytes for ./Ionicons.ttf
+2021-12-16 08:54:39 +0000  copying file ./FontAwesome5_Solid.ttf ... 
+2021-12-16 08:54:39 +0000  202616 bytes for ./FontAwesome5_Solid.ttf
+2021-12-16 08:54:39 +0000  copying file ./FontAwesome5_Regular.ttf ... 
+2021-12-16 08:54:39 +0000  34092 bytes for ./FontAwesome5_Regular.ttf
+2021-12-16 08:54:39 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-12-16 08:54:39 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-12-16 08:54:39 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2021-12-16 08:54:39 +0000  792 bytes for ./AccessibilityResources.bundle/Info.plist
+2021-12-16 08:54:39 +0000  copying file ./FontAwesome.ttf ... 
+2021-12-16 08:54:39 +0000  165548 bytes for ./FontAwesome.ttf
+2021-12-16 08:54:39 +0000  copying file ./Zocial.ttf ... 
+2021-12-16 08:54:39 +0000  25552 bytes for ./Zocial.ttf
+2021-12-16 08:54:39 +0000  copying file ./Assets.car ... 
+2021-12-16 08:54:39 +0000  1609103 bytes for ./Assets.car
+2021-12-16 08:54:39 +0000  copying file ./EvilIcons.ttf ... 
+13456 bytes for ./EvilIcons.ttf
+copying file ./AppIcon76x76@2x~ipad.png ... 
+39357 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./main.jsbundle ... 
+2021-12-16 08:54:39 +0000  2197874 bytes for ./main.jsbundle
+copying file ./FieldServices ... 
+2021-12-16 08:54:39 +0000  29794672 bytes for ./FieldServices
+2021-12-16 08:54:39 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-jij-hk-cML.nib ... 
+1688 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-jij-hk-cML.nib
+copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-16 08:54:39 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2021-12-16 08:54:39 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2021-12-16 08:54:39 +0000  copying file ./SimpleLineIcons.ttf ... 
+2021-12-16 08:54:39 +0000  54056 bytes for ./SimpleLineIcons.ttf
+2021-12-16 08:54:39 +0000  copying file ./embedded.mobileprovision ... 
+2021-12-16 08:54:39 +0000  12375 bytes for ./embedded.mobileprovision
+2021-12-16 08:54:39 +0000  copying file ./assets/app/assets/logo.png ... 
+2021-12-16 08:54:39 +0000  49121 bytes for ./assets/app/assets/logo.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png ... 
+2021-12-16 08:54:39 +0000  212 bytes for ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png ... 
+2021-12-16 08:54:39 +0000  163 bytes for ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png ... 
+2021-12-16 08:54:39 +0000  108 bytes for ./assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2021-12-16 08:54:39 +0000  761 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2021-12-16 08:54:39 +0000  405 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2021-12-16 08:54:39 +0000  290 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+2021-12-16 08:54:39 +0000  copying file ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2021-12-16 08:54:39 +0000  913 bytes for ./assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2021-12-16 08:54:39 +0000  copying file ./Info.plist ... 
+2021-12-16 08:54:39 +0000  1802 bytes for ./Info.plist
+2021-12-16 08:54:39 +0000  copying file ./PkgInfo ... 
+2021-12-16 08:54:39 +0000  8 bytes for ./PkgInfo
+2021-12-16 08:54:39 +0000  copying file ./MaterialIcons.ttf ... 
+2021-12-16 08:54:39 +0000  230384 bytes for ./MaterialIcons.ttf
+2021-12-16 08:54:39 +0000  /usr/bin/ditto exited with 0
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-12-16 08:54:39 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-12-16 08:54:39 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-12-16 08:54:39 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-12-16 08:54:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app/FieldServices' '-l' '-o' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app/FieldServices'
+2021-12-16 08:54:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-12-16 08:54:39 +0000  Running /usr/bin/ditto '-V' '/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/BCSymbolMaps/37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/BCSymbolMaps/37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap'
+2021-12-16 08:54:39 +0000  >>> Copying /Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/BCSymbolMaps/37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap 
+2021-12-16 08:54:39 +0000  copying file ./37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap ... 
+2021-12-16 08:54:39 +0000  2439858 bytes for ./37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap
+2021-12-16 08:54:39 +0000  /usr/bin/ditto exited with 0
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionSymbolsStep
+2021-12-16 08:54:39 +0000  Excluding symbols for FieldServices.app
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionAppThinningStep
+2021-12-16 08:54:39 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionArchThinningStep
+2021-12-16 08:54:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app/FieldServices' '-verify_arch' 'arm64e'
+2021-12-16 08:54:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-12-16 08:54:39 +0000  Skipping architecture thinning for item "FieldServices" because arch "arm64e" wasn't found
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionODRStep
+2021-12-16 08:54:39 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-12-16 08:54:39 +0000  Running /usr/bin/xattr '-crs' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app'
+2021-12-16 08:54:40 +0000  /usr/bin/xattr exited with 0
+2021-12-16 08:54:40 +0000  Processing step: IDEDistributionCodesignStep
+2021-12-16 08:54:40 +0000  Entitlements for <IDEDistributionItem: 0x7fbdc67a6320; bundleID='com.pendulumMedia.fieldservice', path='<DVTFilePath:0x7fbdc69960b0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbdaf90db00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbdc6b463a0; name='Apple Development: Waseem Mansha (D9QQYXVL3J)', hash='E523E55C602DDDEC64D73B6239897C6229892309', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbdc69f30c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-13 05:44:53 +0000''>', entitlements='{
+    "application-identifier" = "6452WM677C.com.pendulumMedia.fieldservice";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.team-identifier" = 6452WM677C;
+    "get-task-allow" = 1;
+}', teamID='6452WM677C', identifier='com.pendulumMedia.fieldservice', executablePath='<DVTFilePath:0x7fbdc679c0f0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app/FieldServices'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "6452WM677C.com.pendulumMedia.fieldservice";
+    "beta-reports-active" = 1;
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.team-identifier" = 6452WM677C;
+    "get-task-allow" = 0;
+}
+2021-12-16 08:54:40 +0000  Entitlements for <IDEDistributionItem: 0x7fbdc67a6320; bundleID='com.pendulumMedia.fieldservice', path='<DVTFilePath:0x7fbdc69960b0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbdaf90db00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbdc6b40370; name='Apple Development: Waseem Mansha (D9QQYXVL3J)', hash='E523E55C602DDDEC64D73B6239897C6229892309', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbdc69e74d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-13 05:44:53 +0000''>', entitlements='{
+    "application-identifier" = "6452WM677C.com.pendulumMedia.fieldservice";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.team-identifier" = 6452WM677C;
+    "get-task-allow" = 1;
+}', teamID='6452WM677C', identifier='com.pendulumMedia.fieldservice', executablePath='<DVTFilePath:0x7fbdc679c0f0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app/FieldServices'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "6452WM677C.com.pendulumMedia.fieldservice";
+    "beta-reports-active" = 1;
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.team-identifier" = 6452WM677C;
+    "get-task-allow" = 0;
+}
+2021-12-16 08:54:40 +0000  Writing entitlements for <IDEDistributionItem: 0x7fbdc67a6320; bundleID='com.pendulumMedia.fieldservice', path='<DVTFilePath:0x7fbdc69960b0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fbdaf90db00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fbdc69f5890; name='Apple Development: Waseem Mansha (D9QQYXVL3J)', hash='E523E55C602DDDEC64D73B6239897C6229892309', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fbdc69d2f50>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-13 05:44:53 +0000''>', entitlements='{
+    "application-identifier" = "6452WM677C.com.pendulumMedia.fieldservice";
+    "com.apple.developer.applesignin" =     (
+        Default
+    );
+    "com.apple.developer.team-identifier" = 6452WM677C;
+    "get-task-allow" = 1;
+}', teamID='6452WM677C', identifier='com.pendulumMedia.fieldservice', executablePath='<DVTFilePath:0x7fbdc679c0f0:'/Users/gsoft05/Library/Developer/Xcode/Archives/2021-12-16/FieldServices 16-12-2021, 1.50 PM.xcarchive/Products/Applications/FieldServices.app/FieldServices'>', hardenedRuntime='0'>'> to: /var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/entitlements~~~VlZrpL
+2021-12-16 08:54:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4D4E8FD6EF6D532BAFDC0842AACF7066036B3BBF' '--entitlements' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/entitlements~~~VlZrpL' '--preserve-metadata=identifier,flags,runtime' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app'
+2021-12-16 08:54:59 +0000  /var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app: signed app bundle with Mach-O thin (arm64) [com.pendulumMedia.fieldservice]
+2021-12-16 08:54:59 +0000  /usr/bin/codesign exited with 0
+2021-12-16 08:54:59 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-12-16 08:54:59 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-12-16 08:54:59 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-12-16 08:54:59 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root' '/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Packages/FieldServices.ipa'
+2021-12-16 08:54:59 +0000  >>> Copying /var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root 
+2021-12-16 08:54:59 +0000  copying file ./BCSymbolMaps/37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap ... 
+2021-12-16 08:54:59 +0000  2439858 bytes for ./BCSymbolMaps/37C9208D-4EF3-372F-9C19-4FCC6BEE93D1.bcsymbolmap
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/_CodeSignature/CodeResources ... 
+2021-12-16 08:54:59 +0000  10642 bytes for ./Payload/FieldServices.app/_CodeSignature/CodeResources
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/Fontisto.ttf ... 
+2021-12-16 08:54:59 +0000  313528 bytes for ./Payload/FieldServices.app/Fontisto.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/Octicons.ttf ... 
+2021-12-16 08:54:59 +0000  28364 bytes for ./Payload/FieldServices.app/Octicons.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/Feather.ttf ... 
+2021-12-16 08:54:59 +0000  56024 bytes for ./Payload/FieldServices.app/Feather.ttf
+copying file ./Payload/FieldServices.app/Entypo.ttf ... 
+2021-12-16 08:54:59 +0000  65584 bytes for ./Payload/FieldServices.app/Entypo.ttf
+copying file ./Payload/FieldServices.app/FontAwesome5_Brands.ttf ... 
+2021-12-16 08:54:59 +0000  132728 bytes for ./Payload/FieldServices.app/FontAwesome5_Brands.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/MaterialCommunityIcons.ttf ... 
+2021-12-16 08:54:59 +0000  899432 bytes for ./Payload/FieldServices.app/MaterialCommunityIcons.ttf
+copying file ./Payload/FieldServices.app/AppIcon60x60@2x.png ... 
+2021-12-16 08:54:59 +0000  27549 bytes for ./Payload/FieldServices.app/AppIcon60x60@2x.png
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/AntDesign.ttf ... 
+2021-12-16 08:54:59 +0000  70344 bytes for ./Payload/FieldServices.app/AntDesign.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/Foundation.ttf ... 
+2021-12-16 08:54:59 +0000  56976 bytes for ./Payload/FieldServices.app/Foundation.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/Ionicons.ttf ... 
+2021-12-16 08:54:59 +0000  247192 bytes for ./Payload/FieldServices.app/Ionicons.ttf
+copying file ./Payload/FieldServices.app/FontAwesome5_Solid.ttf ... 
+2021-12-16 08:54:59 +0000  202616 bytes for ./Payload/FieldServices.app/FontAwesome5_Solid.ttf
+copying file ./Payload/FieldServices.app/FontAwesome5_Regular.ttf ... 
+2021-12-16 08:54:59 +0000  34092 bytes for ./Payload/FieldServices.app/FontAwesome5_Regular.ttf
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2021-12-16 08:54:59 +0000  518 bytes for ./Payload/FieldServices.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/AccessibilityResources.bundle/Info.plist ... 
+2021-12-16 08:54:59 +0000  792 bytes for ./Payload/FieldServices.app/AccessibilityResources.bundle/Info.plist
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/FontAwesome.ttf ... 
+2021-12-16 08:54:59 +0000  165548 bytes for ./Payload/FieldServices.app/FontAwesome.ttf
+copying file ./Payload/FieldServices.app/Zocial.ttf ... 
+2021-12-16 08:54:59 +0000  25552 bytes for ./Payload/FieldServices.app/Zocial.ttf
+copying file ./Payload/FieldServices.app/Assets.car ... 
+2021-12-16 08:54:59 +0000  1609103 bytes for ./Payload/FieldServices.app/Assets.car
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/EvilIcons.ttf ... 
+2021-12-16 08:54:59 +0000  13456 bytes for ./Payload/FieldServices.app/EvilIcons.ttf
+copying file ./Payload/FieldServices.app/AppIcon76x76@2x~ipad.png ... 
+2021-12-16 08:54:59 +0000  39357 bytes for ./Payload/FieldServices.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/FieldServices.app/main.jsbundle ... 
+2021-12-16 08:54:59 +0000  2197874 bytes for ./Payload/FieldServices.app/main.jsbundle
+2021-12-16 08:54:59 +0000  copying file ./Payload/FieldServices.app/FieldServices ... 
+2021-12-16 08:55:00 +0000  26021760 bytes for ./Payload/FieldServices.app/FieldServices
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/LaunchScreen.storyboardc/01J-lp-oVM-view-jij-hk-cML.nib ... 
+2021-12-16 08:55:00 +0000  1688 bytes for ./Payload/FieldServices.app/LaunchScreen.storyboardc/01J-lp-oVM-view-jij-hk-cML.nib
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-16 08:55:00 +0000  896 bytes for ./Payload/FieldServices.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/FieldServices.app/LaunchScreen.storyboardc/Info.plist ... 
+2021-12-16 08:55:00 +0000  258 bytes for ./Payload/FieldServices.app/LaunchScreen.storyboardc/Info.plist
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/SimpleLineIcons.ttf ... 
+2021-12-16 08:55:00 +0000  54056 bytes for ./Payload/FieldServices.app/SimpleLineIcons.ttf
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/embedded.mobileprovision ... 
+2021-12-16 08:55:00 +0000  12311 bytes for ./Payload/FieldServices.app/embedded.mobileprovision
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/assets/app/assets/logo.png ... 
+2021-12-16 08:55:00 +0000  49121 bytes for ./Payload/FieldServices.app/assets/app/assets/logo.png
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png ... 
+2021-12-16 08:55:00 +0000  212 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@3x.png
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png ... 
+2021-12-16 08:55:00 +0000  163 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon@2x.png
+copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png ... 
+2021-12-16 08:55:00 +0000  108 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/drawer/src/views/assets/toggle-drawer-icon.png
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png ... 
+2021-12-16 08:55:00 +0000  761 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@3x.png
+copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png ... 
+2021-12-16 08:55:00 +0000  405 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon@2x.png
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png ... 
+2021-12-16 08:55:00 +0000  290 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon.png
+copying file ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png ... 
+2021-12-16 08:55:00 +0000  913 bytes for ./Payload/FieldServices.app/assets/node_modules/@react-navigation/elements/src/assets/back-icon-mask.png
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/Info.plist ... 
+2021-12-16 08:55:00 +0000  1802 bytes for ./Payload/FieldServices.app/Info.plist
+2021-12-16 08:55:00 +0000  copying file ./Payload/FieldServices.app/PkgInfo ... 
+2021-12-16 08:55:00 +0000  8 bytes for ./Payload/FieldServices.app/PkgInfo
+copying file ./Payload/FieldServices.app/MaterialIcons.ttf ... 
+2021-12-16 08:55:00 +0000  230384 bytes for ./Payload/FieldServices.app/MaterialIcons.ttf
+2021-12-16 08:55:00 +0000  /usr/bin/ditto exited with 0
+2021-12-16 08:55:00 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-12-16 08:55:00 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-12-16 08:55:00 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-12-16 08:55:00 +0000  IDEDistributionItem init <DVTFilePath:0x7fbdc0e766c0:'/var/folders/6j/0fzlbjd97rn4whv0_lgycbl80000gn/T/XcodeDistPipeline.~~~6qW0G0/Root/Payload/FieldServices.app'>
+2021-12-16 08:55:00 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-12-16 08:55:00 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
